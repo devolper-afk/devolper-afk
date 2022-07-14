@@ -1,16 +1,25 @@
-### Hi there 👋
+# 🔎 Chi sono 🔍
+```
+Ciao sono un giovane ragazo di 17 anni,
+so vari linguaggi di developing,
+i miei hobby sono sentire musica e programmare divertendomi.
+Che ne dici? Ci divertiamo?
+Potrei imparare qualcosa che non so, su qualche linguaggio, da te come tu qualcosa da me!
+```
 
-<!--
-**devolper-afk/devolper-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Che linguaggi conosco 👨‍💻
+> `node.js` (per fare bot Discord)
 
-Here are some ideas to get you started:
+> `c++`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> `Html Css Javascript` (per siti web)
+
+> `python `(che uso pochissimo)
+
+
+# 🔗 Social 🔗
+
+**Dove puoi trovarmi?**
+> * `Discord:` DestroyNotFound#4504
+> * `Youtube:` [cliccami](https://www.youtube.com/channel/UCJABAAsMYIv-uUuz1C6Q3xQ)
+> * `Telegram:` @ErrorNotFound05
