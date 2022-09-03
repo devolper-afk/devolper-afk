@@ -20,6 +20,6 @@ Potrei imparare qualcosa che non so, su qualche linguaggio, da te come tu qualco
 # 🔗 Social 🔗
 
 **Dove puoi trovarmi?**
-> * `Discord:` DestroyNotFound#4504
+> * `Discord:` Developer sotto pagato#1666
 > * `Youtube:` [cliccami](https://www.youtube.com/channel/UCJABAAsMYIv-uUuz1C6Q3xQ)
 > * `Telegram:` @ErrorNotFound05
